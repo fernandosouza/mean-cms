@@ -8,4 +8,4 @@ Before you begin make sure you have [NODEJS](https://nodejs.org) and [MongoDB](h
 
 ###Get Runing
 
-After cloning just run `mpn install` and `bower install` on terminal. To preview in development mode run `grunt serve` and `grunt serve:dest` to previw in production mode.
+After cloning just run `mpn install` and `bower install` on terminal. To preview in development mode run `grunt serve` and `grunt serve:dest` to preview in production mode.
