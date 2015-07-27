@@ -4,7 +4,9 @@ Just a MEAN CMS.
 
 ###Requirements
 
-Before you begin make sure you have [NODEJS](https://nodejs.org) and [MongoDB](http://www.mongodb.org/downloads) installed. After installing MongoDB follow its get started for your SO.
+Before you begin make sure you have [NODEJS](https://nodejs.org), [MongoDB](http://www.mongodb.org/downloads) and [SASS](http://sass-lang.com/install) installed. After installing MongoDB follow its get started to [run](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/#run-mongodb) it in your SO.
+
+
 
 ###Get Runing
 
